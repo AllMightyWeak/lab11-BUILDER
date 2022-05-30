@@ -1,4 +1,5 @@
-// Copyright by Enigma
+// Copyright by AllMightyWeak
+
 #include "iostream"
 
 int main() {

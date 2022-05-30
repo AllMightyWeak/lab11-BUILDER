@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by AllMightyWeak
 
 #ifndef INCLUDE_BUILDER_HPP_
 #define INCLUDE_BUILDER_HPP_
